@@ -28,7 +28,7 @@ import threading
 from urllib.parse import urlparse
 
 # ==================== 설정 ====================
-TOKEN = "MTQ5NjQ1MzY5NDYwNTA5OTE4OA.G-Gm6K._PhO4109QXNi6zEDj8A7YEjRFMwJT5W8LtCeAw"
+TOKEN = "MTQ5NjQ1MzY5NDYwNTA5OTE4OA.GzkE5F.RlebcgmZzxcpcHMdrun8aKX8LAqq0za47RJv0g"
 ALLOWED_USERS = [1465353827363590350]  # 네 디스코드 ID로 변경
 
 intents = discord.Intents.default()
